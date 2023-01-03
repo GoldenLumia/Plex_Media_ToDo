@@ -1,0 +1,30 @@
+Movies:
+- A Fistful of Dollars
+- Baby Driver
+- Blade Runner
+- Blade Runner 2049
+- Creepshow
+- Deadstream
+- Halloween
+- Halloween II
+- Halloween III: Season of the Witch
+- Halloween (2018)
+- Jim Jefferies: Freedumb
+- John Wick Chapter 2
+- Knives Out 
+- Spiderman No Way Home
+- No Country for Old Men
+- Office Space
+- Prisoners
+- Se7en
+- Sicario
+- The Matrix
+- The Matrix Reloaded
+- The Matrix Revolutions
+- The Pest
+- Rocky Horror Picture Show 
+- Weird: The Al Yankovic Story
+- Guardians of the Galaxy
+- Mad Max: Fury Road
+- Morbius
+- The Evil Dead
